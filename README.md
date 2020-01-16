@@ -1,5 +1,5 @@
 # xetk
 小鹅题库
 
-![](./xetk.png)
+![](./xetk.png){:style="width:300px;"}
 
