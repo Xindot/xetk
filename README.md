@@ -1,7 +1,6 @@
-# xetk
-小鹅题库
+<div style="text-align:center;">
+  <a href="http://xetk.6h5.cn/">小鹅题库</a>
+</div>
 
-![](xetk.png){:style="width:200px;"}
-
-
-![](WechatIMG601.jpeg){:style="width:200px;"}
+[小鹅题库](http://xetk.6h5.cn/)
+  
